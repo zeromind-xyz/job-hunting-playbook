@@ -1,0 +1,223 @@
+{
+  "main": {
+    "id": "b342a7b8ee994d83",
+    "type": "split",
+    "children": [
+      {
+        "id": "7134a455db7169a2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7e729715e5e6ebd3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9a1d68c2280d9cf",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/Intro.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9a7e6dc2d572f14f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_Choose where to work/1. Maximize learning rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f935bea147e5792c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "bc4ec5ccaed08fca",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "e884583772ff0629",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_Choose where to work/1. Maximize learning rate.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "483be86d35dd8100",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "bddda006ded6d1bb",
+    "type": "split",
+    "children": [
+      {
+        "id": "43cce8b8e13c554a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "265247cee7427df8",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d8c8c6ec8c6337be",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3bd90619db36a408",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "20cd3873b84edd6f",
+    "type": "split",
+    "children": [
+      {
+        "id": "aec5b07702c4f9dc",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7603a364b4eb9e6f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "cbb7413c5be8c1e9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "8efed0e5f6ac9f53",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6aec942ae476f854",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "book/A_Choose where to work/2. Train the right skills.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "active": "483be86d35dd8100",
+  "lastOpenFiles": [
+    "book/A_Choose where to work/1. Maximize learning rate.md",
+    "book/A_Choose where to work/2. Train the right skills.md",
+    "notes/Plan.md",
+    "book/A_Choose where to work/4. Understand trade-offs.md",
+    "book/A_Choose where to work/3. How to evaluate a job opportunity.md",
+    "book/Outro.md",
+    "book/Intro.md",
+    "your_pitch.md"
+  ]
+}
