@@ -24,6 +24,8 @@ In addition to theory, I’ve included real world examples where possible and ha
 
 ### Why?
 
+(TODO: really reinforce how I think common advice / education under-discusses the meta game at play: how to create opportunities, and focuses too much on just the actual technical interview prep: which is honestly NOT the limiting factor for most people. If you're not great at that, get great at it, but read this playbook to radically maximize the opportunities your talent can create. If technical preparation is akin to building a great product, this playbook is the strategy you use to sell that product to the world. A great product, and poor sales is just as terrible as a shit product with poor sales. And I've seen this happen far too often.)
+
 **Firstly, most people underestimate the cost of working at a company that’s a bad fit for them**. Humans aren’t stagnant: we’re either growing in the ways that we want to through learning skills and habits from those around us, or we’re atrophying.
 
 Sadly, I’ve consistently seen motivated, sharp, ambitious peers take up jobs that aren’t good matches for them, that led to them not enjoy their work, eventually underperforming and also becoming jaded & unhappy.

@@ -1,0 +1,2 @@
+- Gaming the system is a short-term optimization. At some point you HAVE to create actual value because as you get older your evaluation turns from gauging potential to gauging your track record.
+- 
