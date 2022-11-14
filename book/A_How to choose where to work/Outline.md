@@ -1,10 +1,13 @@
-0. The goal (consider moving this to intro).
-1. How a company values you
-2. Train the right skills
+0. The goal state (to thrive) (consider moving this to intro).
+1. **Irrefutable competence**. 
+	* The most powerful signal that the world listens to.
+2. **Train the right skills**
+	* The skills that will enable you to become competent at creating value.
 3. Control your destiny
-4. Maximize learning rate
-5. How to evaluate a job opportunity
-6. Trade-offs
+	* 
+1. Maximize learning rate
+2. How to evaluate a job opportunity (culmination of principles above and mapped to reality)
+3. Trade-offs
 
 ---
 

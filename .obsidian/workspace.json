@@ -4,77 +4,9 @@
     "type": "split",
     "children": [
       {
-        "id": "deeaf05d0b8f5f16",
-        "type": "tabs",
-        "dimension": 54.474708171206224,
-        "children": [
-          {
-            "id": "f39affae7d0604e8",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Scratch.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "629b38bab453374e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/A_How to choose where to work/1.  How a company values you.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "ace2eee7098e20b4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/A_How to choose where to work/5. How to evaluate a job opportunity.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "56534d535536f1f7",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/A_How to choose where to work/6. Trade-offs.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "0a0a573e7a13136e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/B_How to get interviews/Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          }
-        ],
-        "currentTab": 3
-      },
-      {
         "id": "e2ecbc28dc542b61",
         "type": "tabs",
-        "dimension": 45.525291828793776,
+        "dimension": 51.70370370370371,
         "children": [
           {
             "id": "49228e0be6a8104c",
@@ -83,7 +15,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/A_How to choose where to work/1.  How a company values you.md",
+                "file": "book/A_How to choose where to work/1. Irrefutable competence.md",
                 "mode": "source",
                 "source": false
               },
@@ -96,6 +28,18 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "book/A_How to choose where to work/2. Train the right skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "b52a09b3336dd639",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "book/A_How to choose where to work/Outline.md",
                 "mode": "source",
                 "source": false
@@ -103,7 +47,26 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
+      },
+      {
+        "id": "deeaf05d0b8f5f16",
+        "type": "tabs",
+        "dimension": 48.2962962962963,
+        "children": [
+          {
+            "id": "e85f09f3fc3a84ee",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "book/A_How to choose where to work/2. Train the right skills.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -153,7 +116,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 204.5
+    "width": 307.5
   },
   "right": {
     "id": "20cd3873b84edd6f",
@@ -169,7 +132,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/A_How to choose where to work/6. Trade-offs.md",
+                "file": "book/A_How to choose where to work/2. Train the right skills.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +149,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/A_How to choose where to work/6. Trade-offs.md",
+                "file": "book/A_How to choose where to work/2. Train the right skills.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -209,7 +172,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/A_How to choose where to work/6. Trade-offs.md"
+                "file": "book/A_How to choose where to work/2. Train the right skills.md"
               }
             }
           }
@@ -221,17 +184,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "56534d535536f1f7",
+  "active": "e85f09f3fc3a84ee",
   "lastOpenFiles": [
-    "book/A_How to choose where to work/5. How to evaluate a job opportunity.md",
-    "book/A_How to choose where to work/4. Maximize learning rate.md",
-    "book/A_How to choose where to work/3. Control your destiny.md",
-    "book/A_How to choose where to work/2. Train the right skills.md",
-    "book/A_How to choose where to work/1.  How a company values you.md",
-    "book/A_How to choose where to work/6. Trade-offs.md",
     "book/A_How to choose where to work/Outline.md",
-    "book/B_How to get interviews/Outline.md",
-    "book/Outro.md",
-    "book/Intro.md"
+    "book/A_How to choose where to work/2. Train the right skills.md",
+    "book/A_How to choose where to work/1. Irrefutable competence.md",
+    "notes/Plan.md",
+    "book/Intro.md",
+    "book/A_How to choose where to work/3. Control your destiny.md",
+    "book/A_How to choose where to work/4. Maximize learning rate.md",
+    "book/A_How to choose where to work/5. How to evaluate a job opportunity.md",
+    "notes/Scratch.md",
+    "book/B_How to get interviews/Outline.md"
   ]
 }
