@@ -6,7 +6,6 @@
       {
         "id": "e2ecbc28dc542b61",
         "type": "tabs",
-        "dimension": 51.70370370370371,
         "children": [
           {
             "id": "49228e0be6a8104c",
@@ -15,52 +14,26 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/A_How to choose where to work/1. Irrefutable competence.md",
+                "file": "tweetstorms/How to thrive in your career.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          },
-          {
-            "id": "0f9d18e02d226296",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/A_How to choose where to work/2. Train the right skills.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "b52a09b3336dd639",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "book/A_How to choose where to work/Outline.md",
-                "mode": "source",
-                "source": false
-              }
-            }
           }
-        ],
-        "currentTab": 2
+        ]
       },
       {
-        "id": "deeaf05d0b8f5f16",
+        "id": "c2472fbb72d4f238",
         "type": "tabs",
-        "dimension": 48.2962962962963,
         "children": [
           {
-            "id": "e85f09f3fc3a84ee",
+            "id": "2b627ca5e3d7253d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "book/A_How to choose where to work/2. Train the right skills.md",
+                "file": "notes/Playbook growth.md",
                 "mode": "source",
                 "source": false
               }
@@ -116,7 +89,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 307.5
+    "width": 242.5
   },
   "right": {
     "id": "20cd3873b84edd6f",
@@ -132,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "book/A_How to choose where to work/2. Train the right skills.md",
+                "file": "notes/Playbook growth.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -149,7 +122,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "book/A_How to choose where to work/2. Train the right skills.md",
+                "file": "notes/Playbook growth.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -172,7 +145,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "book/A_How to choose where to work/2. Train the right skills.md"
+                "file": "notes/Playbook growth.md"
               }
             }
           }
@@ -184,17 +157,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e85f09f3fc3a84ee",
+  "active": "2b627ca5e3d7253d",
   "lastOpenFiles": [
-    "book/A_How to choose where to work/Outline.md",
-    "book/A_How to choose where to work/2. Train the right skills.md",
+    "notes/Scratch.md",
+    "tweetstorms/How to thrive in your career.md",
+    "notes/People.md",
+    "notes/Playbook growth.md",
     "book/A_How to choose where to work/1. Irrefutable competence.md",
-    "notes/Plan.md",
-    "book/Intro.md",
+    "2022-11-16.md",
+    "book/A_How to choose where to work/2. Train the right skills.md",
     "book/A_How to choose where to work/3. Control your destiny.md",
     "book/A_How to choose where to work/4. Maximize learning rate.md",
-    "book/A_How to choose where to work/5. How to evaluate a job opportunity.md",
-    "notes/Scratch.md",
-    "book/B_How to get interviews/Outline.md"
+    "book/A_How to choose where to work/Outline.md"
   ]
 }

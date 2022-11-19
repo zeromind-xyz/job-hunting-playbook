@@ -1,5 +1,11 @@
 (*For now just brainstorming*)
 
+What about a different approach altogether to launch this? One that relies on smaller pieces to build an initial audience and momentum. And THEN: hit the readers with a playbook.
+
+Fascinating.
+
+---
+
 Before focusing on growth, ensure that you have a solid product that is worthy of someone's attention. Growth doesn't do shit if the underlying product itself isn't that great. And a great product can amplify every ounce of growth effort.
 
 After rounds of iterations and getting the playbook to what I consider 0.9, it's time to start executing on growth to enable the playbook to reach an audience beyond the people that I personally know.
