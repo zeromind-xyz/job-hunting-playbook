@@ -1,8 +1,10 @@
 (*For now just brainstorming*)
 
-What about a different approach altogether to launch this? One that relies on smaller pieces to build an initial audience and momentum. And THEN: hit the readers with a playbook.
+Goals are incredibly clear.
 
-Fascinating.
+----
+
+What about a different approach altogether to launch this? One that relies on smaller pieces to build an initial audience and momentum. And THEN: hit the readers with a playbook.
 
 ---
 

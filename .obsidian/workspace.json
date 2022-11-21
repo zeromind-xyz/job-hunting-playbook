@@ -14,26 +14,34 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "tweetstorms/How to thrive in your career.md",
+                "file": "Playbook as tweets.md",
                 "mode": "source",
                 "source": false
               },
               "pinned": true
             }
-          }
-        ]
-      },
-      {
-        "id": "c2472fbb72d4f238",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "2b627ca5e3d7253d",
+            "id": "99fbc5d43d679491",
+            "type": "leaf",
+            "pinned": true,
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "notes/Scratch.md",
+                "mode": "source",
+                "source": false
+              },
+              "pinned": true
+            }
+          },
+          {
+            "id": "524a9ce6a7f5b73f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Playbook growth.md",
+                "file": "notes/Bigger picture.md",
                 "mode": "source",
                 "source": false
               }
@@ -105,7 +113,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Playbook growth.md",
+                "file": "Playbook as tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -122,7 +130,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Playbook growth.md",
+                "file": "Playbook as tweets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -145,7 +153,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Playbook growth.md"
+                "file": "Playbook as tweets.md"
               }
             }
           }
@@ -157,17 +165,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "2b627ca5e3d7253d",
+  "active": "49228e0be6a8104c",
   "lastOpenFiles": [
     "notes/Scratch.md",
-    "tweetstorms/How to thrive in your career.md",
+    "notes/Bigger picture.md",
+    "Playbook as tweets.md",
+    "Untitled.md",
+    "2022-11-16.md",
+    "notes/References.md",
+    "notes/Plan.md",
     "notes/People.md",
     "notes/Playbook growth.md",
-    "book/A_How to choose where to work/1. Irrefutable competence.md",
-    "2022-11-16.md",
-    "book/A_How to choose where to work/2. Train the right skills.md",
-    "book/A_How to choose where to work/3. Control your destiny.md",
-    "book/A_How to choose where to work/4. Maximize learning rate.md",
-    "book/A_How to choose where to work/Outline.md"
+    "book/A_How to choose where to work/1. Irrefutable competence.md"
   ]
 }

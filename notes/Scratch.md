@@ -1,3 +1,36 @@
+OK, I def like the emphasis on Founder Mindset -> could make that the core theme of the playbook. Well, True, irrefutable signal is actually powerful and should likely stay as the primary definition of "How to thrive". Founder Mindset is what lets you **earn True, irrefutable signals** of competence. That's the right relationship.
+
+1. What is thriving (Thriving = having **true, irrefutable signals** of competence)
+2. Founder Mindset is required to thrive
+3. Evaluate job opportunities by their **ability to train Founder Mindset**.
+4. It's not just enough to learn the right skills to thrive. Rate of learning matters (and why).
+5. Concluding statement.
+
+This is it. 3 act piece for the opening section. Will likely have to break it apart further, but this is a powerful foundation.
+
+High level ordering feedback:
+1. What does it mean to thrive?
+	1. Define
+	2. Signals of competence.
+	3. Types of compensation.
+	4. Wealth creation involves holding equity. But more importantly, if you **develop true signals** of competence, you can systematically achieve high equity and compensation.
+2. How to build true signals?
+	1. Internal process
+	2. Choosing the right environment (i.e. choosing where to work)
+3. Speed matters.
+4. Trade-offs (remote / in-person, small / big, choosing a region, etc.).
+
+
+--> It all comes down to building true signals of competence. That's where the game is at. 
+
+
+----
+
+Ways to break this down:
+1. Get the high level ordering correct (there are currently 4 sub-threads here. Will you keep all of them?).
+2. Ordering WITHIN first section: and figure this out.
+
+----
 1. Move real vs. proxy signals thinking high up in the thread: right after "Companies are designed for profits." And then build the grade-level system argument on the back of this point.
 
 **High level outline**:
