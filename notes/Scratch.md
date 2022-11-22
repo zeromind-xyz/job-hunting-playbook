@@ -1,10 +1,86 @@
+**How to evaluate opportunities**
+* Optimize for Founder Mindset learning rate.
+* Cultural qualities of the ideal company to maximize learning rate:
+* 1. Growing exponentially (in revenue, not employee headcount, awards or BS). (Verify via public records if company public, else via fundraising rounds).
+* 2. Moves fast: ships updates on a daily / weekly basis. (Verify via changelogs, tweets from team, and talking to current employees).
+* Hurried does not mean moving fast. Only look at outcomes (rate of shipping changes) to understand a company's velocity. 
+* 3. Consistently delivering is rewarded with greater ownership and responsibility. 
+* 4. 
+
+* Learning rate higher in path to success vs. path to failure. Try to join a growing, winning team.
+
+* Hardware tech companies:
+	* If joining a hardware tech company, join one with a good oracle: someone who has a track record of shipping world class hardware products. Treat their feedback as market feedback to iterate on skills.
+	* E.g. Getting feedback from Steve Jobs on a weekly basis is closely equivalent to shipping a software iteration and measuring results.
+	* Without a strong oracle in hardware tech companies: learning rate is slow because the feedback loop with the market (key aspect of learning cycle) is missing, and failure rate is high (hardware is hard).
+
+* Ignore legacy companies (whose prime years are behind them and growth has stagnated.)
+* In-person > remote, unless your region doesn't have world class companies: then choose remote with a viable path to moving in person.
+* Startup vs. big company.
+* Product driven vs. sales driven.
+* Lastly, ignore all advice if you have a strong gut instinct to work with a group of people you respect to build something great, even if they have no existing visible signs of growth or success. Follow that instinct. Learn from its outcomes.
+* All the best.
+
+----
+
+**Maximize learning rate**
+* It's not enough to simply learn the right skills to create value. Rate of learning is paramount.
+* Learning is measured not by time spent doing something, but by your ability to create actual, tangible value.
+* The second best (and more practical) way to measure learning is by number of iterations of the learning cycle.
+* Learning cycle = determining what to create, creating, shipping to an audience, updating internal model of what to create.
+* By choosing to work at companies that moves fast (more learning cycles), with teammates that are great at actually delivering value (measured by outcomes), you will learn exponentially faster than if you join an average company.
+* In Tech, the range and variance of competence is high, without an upper bound. The best engineer / designer / product manager will have 100x more opportunities and will be compensated 100x higher than the average.
+* Fortunately in Tech, you don't have to sacrifice much baseline compensation in order to optimize for learning rate. Companies worth working at will pay you enough to live comfortably.
+
+----
+
+**Founder mindset**
+* Train the Founder Mindset to enable yourself to create value and thereby build true, irrefutable signals of competence.
+* Founder Mindset:
+* 1. Obsess over creating long-term value. (Determine what people want, create, sell).
+* 2. Seek truth. (Perceive reality as it is, not as you want it to be - about what the world wants and about what you find meaningful).
+* 3. Do what's necessary. (Be attached to outcomes, not to roles / titles / tools required to deliver those outcomes).
+* 4. Embrace ownership and responsibility. (Take calculated risks. Take responsibility for your failures).
+* 5. Be honest. (Cheating & lying are habits that will prevent you from working with the best and creating long-term value).
+* Focus on this internal system. External results will follow.
+
+Thoughts:
+- I want to insert the founder cycle: determine what the world needs, create, sell.
+- I'm struggling to see the clear difference b/w obsess over creating value and truth seeking.
+
+----
+Need to define this well since it's the crux of the entire playbook: Founder Mindset = what you need to learn in order to thrive.
+
+1. **Obsess over creating value**. (Grow the pie, not fight over scraps).
+2. **Seek truth** (about what the world needs, how to build and get it to the world at scale, and about who you are and what you find meaningful).
+3. **Do what's necessary** (attached to outcomes, not the roles / titles / tools to deliver those outcomes. Don't limit yourself to rigidly defined roles. Understand how to navigate various roles and responsibilities through upfront communication to get everyone aligned on what you want to do and why you think it's good for the company. The expanded point here is that you're not restricted by a rigid narrative on how you ought to work).
+4. **Embrace ownership and responsibility**. (treats every task with responsibility).
+----
+
+(What are some other points worth considering?)
+
+You have to boil this down further. Terse. Pithy. There's no time in a tweetstorm to express everything you feel about a certain thing.
+
+Founder Mindset cycle:
+1. Determining what to create.
+2. Creating.
+3. Selling.
+
+Every other skill learned is to aid this cycle. Whether leadership, hiring, design, etc. Whatever the skill might be, stems from this fundamental creation cycle.
+
+----
+
 OK, I def like the emphasis on Founder Mindset -> could make that the core theme of the playbook. Well, True, irrefutable signal is actually powerful and should likely stay as the primary definition of "How to thrive". Founder Mindset is what lets you **earn True, irrefutable signals** of competence. That's the right relationship.
 
-1. What is thriving (Thriving = having **true, irrefutable signals** of competence)
-2. Founder Mindset is required to thrive
-3. Evaluate job opportunities by their **ability to train Founder Mindset**.
-4. It's not just enough to learn the right skills to thrive. Rate of learning matters (and why).
-5. Concluding statement.
+1. How to thrive (Thriving = having **true, irrefutable signals** of competence)
+2. Founder Mindset
+3. Maximize learning rate.
+4. How to evaluate job opportunities.
+5. Concluding
+
+----
+
+Key relationship: **Founder Mindset is the internal system that will eventually lead to the outcomes you desire**. Mindset is in your hands. Its outcomes are not, but they will be deliverd in due time.
 
 This is it. 3 act piece for the opening section. Will likely have to break it apart further, but this is a powerful foundation.
 
@@ -14,10 +90,9 @@ High level ordering feedback:
 	2. Signals of competence.
 	3. Types of compensation.
 	4. Wealth creation involves holding equity. But more importantly, if you **develop true signals** of competence, you can systematically achieve high equity and compensation.
-2. How to build true signals?
+2. Founder Mindset enables you to create value.
 	1. Internal process
 	2. Choosing the right environment (i.e. choosing where to work)
-3. Speed matters.
 4. Trade-offs (remote / in-person, small / big, choosing a region, etc.).
 
 

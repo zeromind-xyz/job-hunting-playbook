@@ -8,20 +8,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "49228e0be6a8104c",
-            "type": "leaf",
-            "pinned": true,
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Playbook as tweets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
             "id": "99fbc5d43d679491",
             "type": "leaf",
             "pinned": true,
@@ -34,17 +20,25 @@
               },
               "pinned": true
             }
-          },
+          }
+        ]
+      },
+      {
+        "id": "a925a49b32cda092",
+        "type": "tabs",
+        "children": [
           {
-            "id": "524a9ce6a7f5b73f",
+            "id": "9e85308c367c7270",
             "type": "leaf",
+            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
-                "file": "notes/Bigger picture.md",
+                "file": "Playbook as tweets.md",
                 "mode": "source",
                 "source": false
-              }
+              },
+              "pinned": true
             }
           }
         ]
@@ -113,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Playbook as tweets.md",
+                "file": "notes/Scratch.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -130,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Playbook as tweets.md",
+                "file": "notes/Scratch.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -153,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Playbook as tweets.md"
+                "file": "notes/Scratch.md"
               }
             }
           }
@@ -165,11 +159,11 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "49228e0be6a8104c",
+  "active": "99fbc5d43d679491",
   "lastOpenFiles": [
+    "Playbook as tweets.md",
     "notes/Scratch.md",
     "notes/Bigger picture.md",
-    "Playbook as tweets.md",
     "Untitled.md",
     "2022-11-16.md",
     "notes/References.md",
