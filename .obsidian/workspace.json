@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "notes/Scratch.md",
+                "file": "Playbook as tweets.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -124,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "notes/Scratch.md",
+                "file": "Playbook as tweets.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -147,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "notes/Scratch.md"
+                "file": "Playbook as tweets.md"
               }
             }
           }
@@ -159,10 +159,10 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "99fbc5d43d679491",
+  "active": "9e85308c367c7270",
   "lastOpenFiles": [
-    "Playbook as tweets.md",
     "notes/Scratch.md",
+    "Playbook as tweets.md",
     "notes/Bigger picture.md",
     "Untitled.md",
     "2022-11-16.md",

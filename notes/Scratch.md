@@ -1,23 +1,103 @@
+### Left out of Tweetstorm
+
+*(What follows isn't natural continuation).*
+* What is the right job opportunity that maximizes progress towards building true, irrefutable signal of competence?
+* Great team.
+* Opportunity to gain greater responsibilities with good execution.
+* Must have a culture that __.
+* If possible, choose in-person vs. remote. People underestimate in-person learning advantages when you're surrounded by great people.
+* But remotely for a high learning rate company >> in-person stagnant company.
+* Pre product-market fit startups aren't worth the risk. Most will fail. You're better off just starting something yourself. But ignore this advice if you see something special at an early stage startup. Prepare for suffering :).
+* Rare for large companies to afford you the opportunity to fail __ (need to word this better).
+* But you can be more creative than you think. Internet has opened up a new class of interesting, potentially high learning rate jobs. E.g. hustling your way as a tech person on Mr. Beast's team. Or building an AI software stack for an upcoming rapper.
+	* Might look stupid today, but 
+	- These learning experiences can actually be more fruitful than joining a company.
+	- You could also consider starting your own thing.
+
+**Company compensation** (This feels like more of a side point / additional benefit rather than be a part of the core thread. At the same time, compensation is important to spell out bec. this is the primary means of evaluating opportunities for most young folks).
+* Companies have 2 compensation systems: "Grade-Level" and "Pay-Whatever-Necessary".
+* Grade-Level is transparent step function: Engineer/Designer/Manager 1, 2, 3, principle, staff, etc. with clearly defined compensation packages. This transparency is good for the company: reduces lobbying for raises and internal politics.
+* But Grade-Level pay systems often can't attract the best talent, therefore, companies pay whatever they can for top talent.
+* Competence in creative domains (like Tech) has high variance and range. The best are orders of magnitude more effective than the average.
+* Grade-level system severely undercompensates the best. The only way to earn what you're worth is to break out of the Grade-Level system.
+* Having true signals of competence enables you to graduate out of the grade-level system.
+
+**Founder Mindset**
+* True signals are earned by creating value. Creating value is done by making something people want, selling it to them, and capturing some of the economic value created by your product.
+* Creating value is the name of the game whether within a company someone other than you founded, or your own.
+* Train yourself in the Founder Mindset.
+* Earn the right to create value.
+* By working on problems you actually care about, with teammates you deeply respect gives you energy to create value.
+* -> Identify with the founder mindset, not some particular programming language / technology, etc.
+
+**How to learn**
+* Learning is measured not by time spent, but by iterations of the learning cycle.
+* Learning cycle = talking to users, determining what to create, creating it, shipping it, measuring how well it does, determining what the next direction is. ()
+* Rate of learning of the right skills that enable you to build irrefutable signal of competence is the most important factor when evaluating a job opportunity.
+* Rate of learning is incredibly important. Learning compounds exponentially. In Tech there's no upper bound to what you can create once you break out of the mediocre, grade-level system. Break through as quickly as possible.
+
+**How to get interviews**
+(Finish the entire first section before you get here -> ensure that the foundation is laid well before you start building on it. This section is NOT independent of the first. It's an additional layer that puts into practice the theoretical foundation of the first section. Amen.).
+* 
+
+**Right mindset**
+
+
+**Notes**
+* Proxy signals hierarchy:
+	* Competence by association, diluted by number of people that share signal: 
+		* Part of a successful company during its rise.
+		* Prestigious college.
+	* Titles and status games (Awards, etc.).
+* Thriving = escaping the grade-level system.
+* Do this by doing whatever is necessary to create value. Don't be limited by your title. Creating value is often a cross-department, cross-role work. **If a company doesn't allow for this type of work, join another company.**
+* Don't play status games. Do the best job you can at whatever you do to create value.
+* At the end of the day, only true, irrefutable signals will enable you to thrive.
+* Attitude is a super important factor in "right skills". It is a skill that must be trained. Talk about it there. Amen.
+* A good heuristic: is there a way to earn the opportunity to fail? You cannot have true signals of competence if failure is not a possibility -> def need to reword this. I get the gist. But doesn't make any sense.
+* Climbing grade-level system is literally a ladder / rat race. Creating value is far more freeing.
+* It helps to be passionate about the problem the company is trying to solve - passion and purpose enable you to work harder.
+* Work in-person if possble due to subconscious elements of learning from teammates.
+* Working remotely with a better company is better than in-person with a worse one. 
+	* Find an opportunity to move in-person ASAP.
+* Thriving is a training of the mind, not any material outcome. Money can be taken, burnt, evaporated, burnt. Tough to steal your ability to create value... that can only be earned through the right mental training.
+* Important point about finding the problem you're working on meaningful & respecting your teammates and the founders. This is a formula to bring out the best work rather than be a mercinary on compensation (bar exceptional cases in which you absolutely need immediate capital for some reason).
+	* Stress this point. I don't want people to interpret this playbook as a mercenary path. Amen.
+* The identity you identify with / attach yourself with is such an important piece of the puzzle. Possibly the most important piece of the puzzle.
+* Dedicating yourself to creating outsized value for the company is what will protect you. The company you create value you for might not exist tomorrow, that's besides the point, but the tangible evidence of your ability to create value will not go unnoticed - and that will protect you.
+
+
+
+
+----
+
 **How to evaluate opportunities**
 * Optimize for Founder Mindset learning rate.
 * Cultural qualities of the ideal company to maximize learning rate:
 * 1. Growing exponentially (in revenue, not employee headcount, awards or BS). (Verify via public records if company public, else via fundraising rounds).
-* 2. Moves fast: ships updates on a daily / weekly basis. (Verify via changelogs, tweets from team, and talking to current employees).
+* Growth is a pre-requisite for many positive qualities: __, __, __, ...
+* 2. Quality teammates: low ego, high productivity, who work to make the team greater than the sum of its parts.
+* 3. Moves fast: ships updates on a daily / weekly basis. (Verify via changelogs, tweets from team, and talking to current employees).
 * Hurried does not mean moving fast. Only look at outcomes (rate of shipping changes) to understand a company's velocity. 
-* 3. Consistently delivering is rewarded with greater ownership and responsibility. 
-* 4. 
+* 4. Consistently delivering is rewarded with greater ownership and responsibility. 
+* Learning rate higher in path to success vs. path to failure. Try to join a winning team.
 
-* Learning rate higher in path to success vs. path to failure. Try to join a growing, winning team.
-
-* Hardware tech companies:
-	* If joining a hardware tech company, join one with a good oracle: someone who has a track record of shipping world class hardware products. Treat their feedback as market feedback to iterate on skills.
-	* E.g. Getting feedback from Steve Jobs on a weekly basis is closely equivalent to shipping a software iteration and measuring results.
-	* Without a strong oracle in hardware tech companies: learning rate is slow because the feedback loop with the market (key aspect of learning cycle) is missing, and failure rate is high (hardware is hard).
-
-* Ignore legacy companies (whose prime years are behind them and growth has stagnated.)
-* In-person > remote, unless your region doesn't have world class companies: then choose remote with a viable path to moving in person.
-* Startup vs. big company.
-* Product driven vs. sales driven.
+**Trade offs**
+* Ignore legacy companies (whose prime years are behind them and growth has stagnated). Don't join a stagnating ship. You'll learn bad habits and will be worse off than when you started.
+* Hardware vs. software:
+* Hardware = hardware + software => (hardware + software) vs. software.
+* If joining a hardware tech company, join one with a good oracle: someone who has a track record of shipping world class hardware products. Treat their feedback as market feedback to iterate on skills.
+* E.g. Getting feedback from Steve Jobs on a weekly basis is closely equivalent to shipping a software iteration and measuring results.
+* Without a strong oracle in hardware tech companies: learning rate is slow because the feedback loop with the market (key aspect of learning cycle) is missing, and failure rate is high (hardware is hard).
+* Ideally join after manufacturing risk minimized (they've shown ability to actually ship quality hardware).
+* In-person vs. remote:
+* The best way to learn from a teammate is in person. Energy is contagious and physical proximity helps team energy transfer.
+* If you're not in a global Tech hub & cannot immediately move to one (due to Visa / other issues), work remotely with a great team.
+* Working with great company remotely > average company in-person.
+* Startup vs. Big Tech:
+* Two major phases in startup lifecycle: pre & post product-market-fit (pmf).
+* Product-market-fit = the inflection point at which a company has made something people want and the demand for its product far outstrips the supply. Exponential growth in users / revenue often begins at this point. (read: https://www.ycombinator.com/library/5z-the-real-product-market-fit).
+* Less than 1% of startups find product-market-fit. Unless you have strong reason not to, only join startups AFTER they've found product-market-fit (more deets on how in playbook).
 * Lastly, ignore all advice if you have a strong gut instinct to work with a group of people you respect to build something great, even if they have no existing visible signs of growth or success. Follow that instinct. Learn from its outcomes.
 * All the best.
 
