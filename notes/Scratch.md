@@ -1,3 +1,23 @@
+Feedback:
+* I'm somewhat fine with "How to thrive", but there lacks a clean flow of narrative from this section to the subsequent ones. Need to thread it together.
+
+Here's the high level outline:
+* What is thriving
+* True vs. proxy signals of competence.
+* Founder Mindset that enables you to thrive
+* Maximize learning rate of this founder mindset.
+* How to evaluate opportunities to maximize learning rate.
+
+----
+
+### Visualizing Value
+
+Which sections deserve visualizations?
+- True vs. proxy signals of competence
+- Resume becomes shorter as you get better.
+- Chasing status vs. creating value.
+- Learning compounds => rate of learning matters.
+
 ### Left out of Tweetstorm
 
 *(What follows isn't natural continuation).*
