@@ -4,30 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "a925a49b32cda092",
+        "id": "07e8c478d830df8c",
         "type": "tabs",
         "children": [
           {
-            "id": "9e85308c367c7270",
+            "id": "42bafab5c82f533f",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "markdown",
               "state": {
                 "file": "Playbook as tweets.md",
-                "mode": "source",
-                "source": false
-              },
-              "pinned": true
-            }
-          },
-          {
-            "id": "ef4aee1eda54ffe4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "notes/Scratch.md",
                 "mode": "source",
                 "source": false
               }
@@ -150,17 +136,17 @@
     "direction": "horizontal",
     "width": 300
   },
-  "active": "9e85308c367c7270",
+  "active": "42bafab5c82f533f",
   "lastOpenFiles": [
-    "notes/Scratch.md",
+    "How to get interviews/Outline.md",
     "Playbook as tweets.md",
-    "notes/References.md",
-    "notes/Bigger picture.md",
-    "Untitled.md",
-    "2022-11-16.md",
-    "notes/Plan.md",
+    "How to get interviews/Untitled.md",
+    "book/B_How to get interviews/Outline.md",
+    "notes/Scratch.md",
     "notes/People.md",
-    "notes/Playbook growth.md",
-    "book/A_How to choose where to work/1. Irrefutable competence.md"
+    "notes/Plan.md",
+    "book/C_Right mindset/Outline.md",
+    "notes/References.md",
+    "notes/Playbook growth.md"
   ]
 }

@@ -1,3 +1,9 @@
+Next session:
+- Think about how to start smaller -> waiting to complete the playbook before launching is a bad idea. Break into smaller chunks, build a brand that provides value and test ideas on the market and get feedback from talented folks before writing and launching the playbook. This way you build social proof before the launch as well. A necessary pre-requisite to launching correctly. Good thinking, but need to flesh out what exactly to put out and how to do so in order for the content to reach the right people.
+- 
+
+----
+
 Feedback:
 * I'm somewhat fine with "How to thrive", but there lacks a clean flow of narrative from this section to the subsequent ones. Need to thread it together.
 

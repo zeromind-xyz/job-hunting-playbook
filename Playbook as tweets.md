@@ -1,4 +1,4 @@
-All part of "How to thrive in your career" thread:
+## A. Choosing where to work
 
 ### How to thrive
 * How to thrive in your career:
@@ -25,7 +25,7 @@ All part of "How to thrive in your career" thread:
 * 2. Seek truth. (Perceive reality as it is, not as you want it to be - about what the world wants and about what you find meaningful).
 * 3. Do whatever is needed. (Be attached to outcomes, not to roles / titles / tools required to deliver those outcomes). 
 * 4. Embrace ownership and responsibility. (Take calculated risks. Take responsibility for your failures).
-* 5. Be honest. (Your reputation follows you for your entire career. In long-term games  ).
+* 5. Be honest. (Your reputation follows you for your entire career. In long-term games).
 * Focus on training this internal system. External results (creating value) will follow.
 
 ### Maximize Learning Rate
